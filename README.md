@@ -214,10 +214,8 @@ After switching to the `Machine_learning` branch, run notebooks in this order:
 
 ## 📄 License
 
-Choose one and add here:
 - MIT License
-- Apache 2.0
-- Proprietary
+
 
 ---
 
